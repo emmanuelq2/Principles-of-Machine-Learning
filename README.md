@@ -1,10 +1,10 @@
 
 
 
-# Data Science Essentials
+# Principles of Machine Learning
 ## Materials for teaching  
 
-Welcome to the Data Science Essentials. We hope you will find the material provided here useful and compelling. 
+Welcome to Principles of Machine Learning. We hope you will find the material provided here useful and compelling. 
 
 ## Overview  
 
