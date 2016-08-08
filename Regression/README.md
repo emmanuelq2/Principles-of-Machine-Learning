@@ -35,42 +35,37 @@ https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 ## Code
 
-The code for Lab 1 are in the following files:
+The code for Lab 2 are in the following files:
 
-- CleanAdmissions.R
-- CleanAdmissions.py
-- SeaDiagCodes.R
-- SetDiagCodes.py
-- SetReadmit.R
-- SetReadmit.py
-- VisualizeDiabetes.R
-- VisualizeDiabetes.py
+- BikeEvaluate.R
+- BikeEvaluate.py
+- BikeVisualize.R
+- BikeVisualize.py
+- SetDayofWeek.R
+- SetDayOfWeek.py
+- SetDays.R
+- SetDays.py
 
 ## Gallery
 
-**Lab 1** full solution can be found in the Azure ML Gallery
+**Lab 2** full solution can be found in the Azure ML Gallery
 
 - Solution 1 [Need Link]
 - Solution 2 [Need Link]
 
 ## Videos  
 
-Videos introducing the concepts behind data exploraiton and visualization in both R and can be found by following the links provided. 
+Videos introducing the concepts behind regression and creating regression models in both R and Python can be found by following the links provided. 
 
-**Introduction to Classification**
+**Introduction to Regression**
 
-- **[Introduction to Classification](https://youtu.be/_y8fL6KHLsQ)** introduces the concepts of classification, a core problem of machine learning.
-- **[Loss Functions for Classification](https://youtu.be/rL6XWev33IY)** talks about loss functions, which determines the difference between many machine learning models.
-- **[Statistical Learning Theory for Supervised Learning](https://youtu.be/sQLtP0nAB8k)** describes applicable statistical theories like Ockham's Razor.
-- **[Logistic Regression](https://youtu.be/k_aR5EJDHHQ)** explains logistic regression and loss functions.
-- **[Creating a Classifier with R](https://youtu.be/m9UgQQSlvd0)** demonstrates how to build a simple logistic regression classifier using R
-- **[Creating a Classifier with R](https://youtu.be/ov6oy-vr2IU)** demonstrates how to build a simple logistic regression classifier using Python
-- **[Maximum Likelihood Perspective](https://youtu.be/cJS3G7UgoI40)** further explores perspectives relating to logistic regression.
-- **[Evaluation Methods for Classifiers](https://youtu.be/YHdwPKxUeZU)** describes how to evaluate a classifier.
-- **[Evaluating a Classifier in R](https://youtu.be/e_TR4tz-yOw)** demonstrates how to compute logistic regressions and evaluate classifiers in R
-- **[Evaluating a Classifier in Python](https://youtu.be/Aoqe3pMvM7U)** demonstrates how to compute logistic regressions and evaluate classifiers in Python
-- **[ROC Curves](https://youtu.be/j_QPgF8BTHI)** talks about computing the relationships between True Positive rates for a given False Positive rate.
-- **[ROC Curve Algorithm](https://youtu.be/5-OOqo_aeCU)** further investigates and describes alternate methods for producing ROC curves.
+- **[Introduction to Linear Regression](https://youtu.be/VLEuvTFwSjE)** recaps the concepts of linear regression and evaluating regression models, as well as provides a case study demo.
+- **[Multiple Linear Regression]https://youtu.be/W-Cy7DqM7rk)** introduces multiple linear regression that takes the usual regression setup, but accounts for various factors. 
+- **[Evaluating Regression Models](https://youtu.be/k-KZ6UdYf44)** talks about evaluating a regression model to figure out the accuracy of the predicted functions. 
+- **[A Simple Regression Simulation with R](https://youtu.be/w_N4RQRJyF4)** demonstrates how to use simulated data to create a basic linear regression model with R
+- **[A Simple Regression Simulation with Python](https://youtu.be/XSaU1sHzVdU)** demonstrates how to use simulated data to create a basic linear regression model with Python
+- **[Increased Error Simulation in R](https://youtu.be/8nIxlYvdCWw)** shows the effect of increased error on a regression model, using R 
+- **[Increased Error Simulation in Python](https://youtu.be/9V9AxseRGw4)** shows the effect of increased error on a regression model, using Python 
 
 **Building Classification Models**
 
