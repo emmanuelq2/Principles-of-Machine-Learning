@@ -1,6 +1,6 @@
 README for Optimization Based methods
 Principles of Machine Learning 
-## Module 4: Optimization Based Methods 
+## Module 5: Optimization Based Methods 
 
 This folder contains introductory video lectures and slides to familiarize students with optimization methods like neural networks and Support Vector Machines
 
