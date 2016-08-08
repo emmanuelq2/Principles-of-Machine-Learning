@@ -1,5 +1,4 @@
 README for Regression
-README for Classification
 # Principles of Machine Learning 
 ## Module 2: Regression
 
