@@ -60,23 +60,15 @@ Videos introducing the concepts behind regression and creating regression models
 **Introduction to Regression**
 
 - **[Introduction to Linear Regression](https://youtu.be/VLEuvTFwSjE)** recaps the concepts of linear regression and evaluating regression models, as well as provides a case study demo.
-- **[Multiple Linear Regression]https://youtu.be/W-Cy7DqM7rk)** introduces multiple linear regression that takes the usual regression setup, but accounts for various factors. 
+- **[Multiple Linear Regression](https://youtu.be/W-Cy7DqM7rk)** introduces multiple linear regression that takes the usual regression setup, but accounts for various factors. 
 - **[Evaluating Regression Models](https://youtu.be/k-KZ6UdYf44)** talks about evaluating a regression model to figure out the accuracy of the predicted functions. 
 - **[A Simple Regression Simulation with R](https://youtu.be/w_N4RQRJyF4)** demonstrates how to use simulated data to create a basic linear regression model with R
 - **[A Simple Regression Simulation with Python](https://youtu.be/XSaU1sHzVdU)** demonstrates how to use simulated data to create a basic linear regression model with Python
 - **[Increased Error Simulation in R](https://youtu.be/8nIxlYvdCWw)** shows the effect of increased error on a regression model, using R 
 - **[Increased Error Simulation in Python](https://youtu.be/9V9AxseRGw4)** shows the effect of increased error on a regression model, using Python 
 
-**Building Classification Models**
+**Creating Regression Models**
 
-- **[Exploring Data for Classification with R](https://youtu.be/IxOlCY0wNEM)** demonstrates how to implement a classification model in a complex dataset in R
-- **[Exploring Data for Classification with Python](https://youtu.be/rZkk8a0CPdU)** demonstrates how to implement a classification model in a comeplex dataset, in Python.
-- **[Creating an Azure ML Classifier with R](https://youtu.be/FDlI5jiWQBM)** demonstrates a combination of the previous concepts introduced, including logistic regression and classifier performance evaluation, using R.
-- **[Creating an Azure ML Classifier with Python](https://youtu.be/DhfgrFXsRno)** demonstrates a combination of the previous concepts introduced, including logistic regression and classifier performance evaluation, using Python.
-- **[Imbalanced Data](https://youtu.be/fSZqmHBQaAU)** describes how to tackle the challenge of handling imbalanced datasets.
-- **[Managing Imbalanced Data in R](https://youtu.be/eC7fUVv5HbI)** demonstrates an exmaple of how to use an R script to create a balanced dataset. 
-- **[Managing Imbalanced Data in Python](https://youtu.be/ZnUcEcalscU)** demonstrates an exmaple of how to use an Python script to create a balanced dataset. 
-- **[Using SMOTE](https://youtu.be/Lp-eKm3MXoM)** demonstrates an alternate way of accomplishing the task in the previous video, using tools in Azure ML
 
 
 
