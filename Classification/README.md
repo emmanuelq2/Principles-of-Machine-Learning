@@ -51,7 +51,7 @@ The code for Lab 1 are in the following files:
 
 ## Videos  
 
-Videos introducing the concepts behind data exploraiton and visualization in both R and can be found by following the links provided. 
+Videos introducing the concepts behind classification and building classification models in both R and Python can be found by following the links provided. 
 
 **Introduction to Classification**
 
