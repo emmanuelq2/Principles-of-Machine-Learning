@@ -45,7 +45,7 @@ The code for Lab 3 can be found in a starting experiment from the Cortana Intell
 
 ## Videos  
 
-Videos introducing the principles and techniques of model improvement can be found in the links below:
+Videos introducing the principles of decision trees and ensemble methods can be found in the links below:
 
 **Introduction to Decision Trees**
 
