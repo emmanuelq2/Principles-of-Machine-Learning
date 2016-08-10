@@ -64,8 +64,6 @@ Videos introducing the concepts behind regression and creating regression models
 - **[Increased Error Simulation in R](https://youtu.be/8nIxlYvdCWw)** shows the effect of increased error on a regression model, using R 
 - **[Increased Error Simulation in Python](https://youtu.be/9V9AxseRGw4)** shows the effect of increased error on a regression model, using Python 
 
-**Creating Regression Models**
-
 
 
 
