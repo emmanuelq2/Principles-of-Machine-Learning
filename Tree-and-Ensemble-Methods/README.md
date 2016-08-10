@@ -26,9 +26,6 @@ powerful and widely used in machine learning. Specifically, in this lab you will
 
 This lab continues using the diabetes patient classification information for over 100,000 patients is in *diabetic_data.csv*
 
-The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
-https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
-
 ## Code
 
 The code for Lab 3 can be found in a starting experiment from the Cortana Intelligence Gallery that can be copied into your Azure ML Workspace using the link for your preferred programming language below:
