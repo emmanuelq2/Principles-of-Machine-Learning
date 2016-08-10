@@ -73,6 +73,9 @@ This section contains a summary of the contents of each folder.
 
 The following labs teach students advanced techniques using the the R or Python language. Each of these labs offer parallel tracks for either R or Python language users.  
 
-- **[Lab 1 - Classification](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Classification)** In this lab, you will train and evaluate a two-class logistic regression classifier model.
-- [**Lab 2 - Regression**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Regression) In this lab, you will train and evaluate a regression model. Like classification, regression is a supervised machine learning technique in which a set of data with known labels is used to train and test a model.
-- [**Regression**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Regression)
+- **[Lab 1 - Classification with Logistic Regression*](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Classification)**: In this lab, you will train and evaluate a two-class logistic regression classifier model.
+- [**Lab 2 - Regression Models**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Regression): In this lab, you will train and evaluate a regression model. Like classification, regression is a supervised machine learning technique in which a set of data with known labels is used to train and test a model.
+- [**Lab 3 - Improving Machine Learning Models**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Improving-Machine-Learning-Models): In this lab you will explore techniques for improving and evaluating the performance of machine learning models.
+- [**Lab 4 - Tree Based Models**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Tree-and-Ensemble-Methods): In this lab you will explore the use of tree-based machine learning models.
+- [**Lab 5 - Optimization Based Machine Learning**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Optimization-Based-Methods): In this lab you will explore the use of optimization-based machine learning models.
+- [**Lab 6 - Unsupervised Learning**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Clustering-and-Recommenders): In this lab, you will use Azure Machine Learning to build unsupervised learning models.
