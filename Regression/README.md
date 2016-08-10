@@ -14,7 +14,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Labs
 
-**Lab 2 - Classification with Logistic Regression** 
+**Lab 2 - Regression Models** 
 
 In this lab, you will train and evaluate a regression model. Like classification, regression is a supervised
 machine learning technique in which a set of data with known labels is used to train and test a model.
