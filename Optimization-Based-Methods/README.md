@@ -14,7 +14,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Labs
 
-**Lab 5 -Tree-Based Models** 
+**Lab 5 -Optimization Based Machine Learning** 
 
 In this lab you will explore the use of optimization-based machine learning models. Optimization-based
 models are powerful and widely used in machine learning. Specifically, in this lab you will investigated:
@@ -26,9 +26,6 @@ models are powerful and widely used in machine learning. Specifically, in this l
 ## Data
 
 This lab continues using the diabetes patient classification information for over 100,000 patients is in *diabetic_data.csv*
-
-The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
-https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 ## Code
 
