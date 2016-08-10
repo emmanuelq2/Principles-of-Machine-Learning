@@ -23,8 +23,6 @@ learning models.
 
 This lab continues using the diabetes patient classification information for over 100,000 patients is in *diabetic_data.csv*
 
-The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
-https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 ## Code
 
@@ -53,6 +51,3 @@ Videos introducing the principles and techniques of model improvement can be fou
 - **[A Simple Regression Simulation with Python](https://youtu.be/XSaU1sHzVdU)** demonstrates how to use simulated data to create a basic linear regression model with Python
 - **[Increased Error Simulation in R](https://youtu.be/8nIxlYvdCWw)** shows the effect of increased error on a regression model, using R 
 - **[Increased Error Simulation in Python](https://youtu.be/9V9AxseRGw4)** shows the effect of increased error on a regression model, using Python 
-
-**Creating Regression Models**
-
