@@ -55,7 +55,7 @@ Videos introducing the principles neural networks and SVM's can be found in the 
 - **[Neural Network Demo](https://youtu.be/wkoUZPsv4iw)** demonstrates a application of neural network theory for an example regarding diabetic patients
 
 
-**Ensemble Methods**
+**Support Vector Machines**
 
 - **[SVMs (Support Vector Machines)](https://youtu.be/tqVULGmLkVU)** provides an overview of Support Vector Machines and their basic applications
 - **[Kernels for SVMs](https://youtu.be/bJDtx49sG-w)** explains the 'Kernel Trick" that allows support vector machines to go from linear to non-linear models
