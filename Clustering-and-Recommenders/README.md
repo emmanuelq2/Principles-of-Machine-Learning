@@ -2,7 +2,7 @@ README for Clustering and Recommenders
 Principles of Machine Learning 
 ## Module 6: Clustering and Recommenders
 
-This folder contains introductory video lectures and slides to familiarize students with 
+This folder contains introductory video lectures and slides to familiarize students with the concepts and techniques of using clustering and recommenders
 
 ## Slides  
 
@@ -23,9 +23,6 @@ In this lab, you will use Azure Machine Learning to build unsupervised learning 
 
 This lab uses census income data in *Adult Census Income Binary Classication dataset.csv*
 
-The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
-https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
-
 ## Code
 
 The code for Lab 6 are in the following files
@@ -40,7 +37,7 @@ The code for Lab 6 are in the following files
 
 ## Videos  
 
-Videos introducing the principles neural networks and SVM's can be found in the links below:
+Videos introducing the principles of clustering and recommenders can be found in the links below:
 
 **Clustering**
 - **[Clustering](https://youtu.be/kHra3poZ8r0)** talks about unsupervised learning with a focus on clustering
