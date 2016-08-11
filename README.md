@@ -73,9 +73,9 @@ This section contains a summary of the contents of each folder.
 
 The following labs teach students advanced techniques using the the R or Python language. Each of these labs offer parallel tracks for either R or Python language users.  
 
-- [**Lab 1 - Classification with Logistic Regression**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Classification)**: In this lab, you will train and evaluate a two-class logistic regression classifier model.
-- [**Lab 2 - Regression Models**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Regression): In this lab, you will train and evaluate a regression model. Like classification, regression is a supervised machine learning technique in which a set of data with known labels is used to train and test a model.
-- [**Lab 3 - Improving Machine Learning Models**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Improving-Machine-Learning-Models): In this lab you will explore techniques for improving and evaluating the performance of machine learning models.
-- [**Lab 4 - Tree Based Models**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Tree-and-Ensemble-Methods): In this lab you will explore the use of tree-based machine learning models.
-- [**Lab 5 - Optimization Based Machine Learning**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Optimization-Based-Methods): In this lab you will explore the use of optimization-based machine learning models.
-- [**Lab 6 - Unsupervised Learning**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Clustering-and-Recommenders): In this lab, you will use Azure Machine Learning to build unsupervised learning models.
+- **Lab 1 - Classification with Logistic Regression** is in the [**Classification**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Classification) folder
+- **Lab 2 - Regression Models** is in the [**Regression**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Regression) folder
+- **Lab 3 - Improving Machine Learning Models** is in the [**Improving Machine Learning Models**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Improving-Machine-Learning-Models) folder
+- **Lab 4 - Tree Based Models** is in the [**Tree and Ensemble Methods**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Tree-and-Ensemble-Methods) folder
+- **Lab 5 - Optimization Based Machine Learning** is in the [**Optimization Based Methods**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Optimization-Based-Methods) folder
+- **Lab 6 - Unsupervised Learning** is in the [**Clustering and Recommenders**](https://github.com/snapanalytx/Principles-of-Machine-Learning/tree/master/Clustering-and-Recommenders) folder
