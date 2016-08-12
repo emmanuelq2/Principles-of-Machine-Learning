@@ -4,14 +4,6 @@ Principles of Machine Learning
 
 This folder contains introductory video lectures and slides to familiarize students with optimization methods like neural networks and Support Vector Machines
 
-## Slides  
-
-**SLIDE 1**  [NEED SLIDES]
-
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
-
 ## Labs
 
 **Lab 5 -Optimization Based Machine Learning** 
@@ -34,12 +26,6 @@ The code for Lab 5 can be found in a starting experiment from the Cortana Intell
 - **[R](https://aka.ms/edx-dat203.2x-lab5-class-r)**
 - **[Python](https://aka.ms/edx-dat203.2x-lab5-class-py)**
 
-## Gallery
-
-**Lab 5** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
 
 ## Videos  
 
