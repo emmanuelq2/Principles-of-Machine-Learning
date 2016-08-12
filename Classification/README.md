@@ -6,11 +6,9 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-**SLIDE 1**  [NEED SLIDES]
+**Classification** introduces the concept of classification, a core problem of machine learning. 
 
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
+**Regression**  explains logistic regression and loss functions.
 
 ## Labs
 
