@@ -12,7 +12,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 **Recommender Systems** contains an overview of recommender systems and matrix factorization.
 
-**Recommender Models** contains a short practical introduction to building and evaluating clustering models.
+**Recommender Models** contains a short practical introduction to building and evaluating recommender models.
 
 ## Labs
 
