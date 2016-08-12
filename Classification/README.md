@@ -15,8 +15,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 ## Labs
 
 **Lab 1 - Classification with Logistic Regression** 
-
- In this lab, you will train and evaluate a two-class logistic regression classifier model.
+In this lab, you will train and evaluate a two-class logistic regression classifier model.
  
 **C1 - Classification - Credit Risk** is a complete case study, suitable for business users. Students create and evaluate machine learning models to classify bank credit customers as good or bad.
 
