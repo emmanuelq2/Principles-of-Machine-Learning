@@ -29,7 +29,7 @@ a real numeric value for the label
 
 ## Code
 
-The code for Lab 2 are in the following files:
+**Lab 2** The code are in the following files:
 
 - BikeEvaluate.R
 - BikeEvaluate.py
@@ -44,7 +44,7 @@ The code for Lab 2 are in the following files:
 
 ## Gallery
 
-Lab R1 full solution can be found in the Azure ML Gallery:
+**Lab R1** full solution can be found in the Azure ML Gallery:
 [CA Dairy Forecast] (http://gallery.azureml.net/Details/e52979c7034c4f3cadd6d2e09e0d6778)
 
 ## Videos  
