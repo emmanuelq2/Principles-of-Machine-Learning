@@ -6,34 +6,35 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-**SLIDE 1**  [NEED SLIDES]
+Clustering contains an overview of clustering theory.
 
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
+Clustering Models contains a short practical introduction to building and evaluating clustering models.
 
 ## Labs
 
-**Lab 6 - Unsupervised Learning** 
+**Lab 6 - Unsupervised Learning** : In this lab, you will use Azure Machine Learning to build unsupervised learning models.
 
-In this lab, you will use Azure Machine Learning to build unsupervised learning models.
-
+**Lab U1 - Clustering - Demographics** provides students with a hands-on overview of unsupervised learning using k-means clustering. In this lab, students perform cluster analysis of a demographic (census) dataset. Different numbers of clusters are evaluated to determine the best fit to the structure of the dataset.
 
 ## Data
 
-This lab uses census income data in *Adult Census Income Binary Classication dataset.csv*
+**Lab 6** uses census income data in *Adult Census Income Binary Classication dataset.csv*
+
+**Lab U1** The forest fire dataset for Lab T2 is in the file titled, *Adult Census Income Binary Classification dataset.csv*. These files are available in the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult).
 
 ## Code
 
 The code for Lab 6 are in the following files
 - Stats.R
 
+There is no code required for **Lab U1**
+
 ## Gallery
 
-**Lab 6** full solution can be found in the Azure ML Gallery
+Lab U1 full solution can be found in the Azure ML Gallery:
 
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
+[Cluster Analysis](http://gallery.azureml.net/Details/96a27128190d4dd38d861c59fb3f2abc)
+
 
 ## Videos  
 
