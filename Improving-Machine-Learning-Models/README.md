@@ -6,11 +6,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-**SLIDE 1**  [NEED SLIDES]
-
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
+**Model Evaluation** explains the process of evaluating models for accuracy.
 
 ## Labs
 
