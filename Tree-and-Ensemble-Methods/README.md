@@ -6,11 +6,11 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-**SLIDE 1**  [NEED SLIDES]
+**Building Classification Models** explores the techniques behind creating and testing classification models.
 
-**SLIDE 2**  [NEED SLIDES]
+**Building Regression Models** explores the techniques behind creating and testing regression models.
 
-**SLIDE 3**  [NEED SLIDES]
+**Building Machine Learning Models** explores the techniques behind creating and testing machine learning models.
 
 ## Labs
 
@@ -33,12 +33,6 @@ The code for Lab 3 can be found in a starting experiment from the Cortana Intell
 - **[R](https://aka.ms/edx-dat203.2x-lab4-class-r)**
 - **[Python](https://aka.ms/edx-dat203.2x-lab4-class-py)**
 
-## Gallery
-
-**Lab 4** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
 
 ## Videos  
 
