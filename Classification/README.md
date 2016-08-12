@@ -17,6 +17,10 @@ This folder contains introductory video lectures and slides to familiarize stude
 **Lab 1 - Classification with Logistic Regression** 
 
  In this lab, you will train and evaluate a two-class logistic regression classifier model.
+ 
+**C1 - Classification - Credit Risk** is a complete case study, suitable for business users. Students create and evaluate machine learning models to classify bank credit customers as good or bad.
+
+**C2 - Classification - Targeted Marketing** is a complete case study, suitable for business users. Students classify customers as interested or not in an offer.
 
 ## Data
 
