@@ -27,13 +27,6 @@ The code for Lab 3 can be found in a starting experiment from the Cortana Intell
 - **[R](https://aka.ms/edx-dat203.2x-lab3-class-r)**
 - **[Python](https://aka.ms/edx-dat203.2x-lab3-class-py)**
 
-## Gallery
-
-**Lab 3** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
-
 ## Videos  
 
 Videos introducing the principles and techniques of model improvement can be found in the links below:
