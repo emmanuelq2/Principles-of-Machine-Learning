@@ -6,9 +6,9 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-Clustering contains an overview of clustering theory.
+**Clustering** contains an overview of clustering theory.
 
-Clustering Models contains a short practical introduction to building and evaluating clustering models.
+**Clustering Models** contains a short practical introduction to building and evaluating clustering models.
 
 ## Labs
 
