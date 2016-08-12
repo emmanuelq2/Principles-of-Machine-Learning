@@ -4,13 +4,6 @@ README for Before you start
 
 This folder contains introductory video lectures and slides to help students prepare for completing this course. 
 
-## Slides  
-
-**SLIDE 1**  [NEED SLIDES]
-
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
 
 ## Labs
 
