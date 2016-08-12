@@ -47,7 +47,6 @@ The code for Lab 1 are in the following files:
 ## Gallery
 
 **Lab C1** full solution can be found in the Azure ML Gallery:
-
 [Credit Scoring](http://gallery.azureml.net/Details/84d0e3261c614258b68ed56ba236fe50)
 
 **Lab C2** full solutions to the exercises can be found in the Azure ML Gallery:
