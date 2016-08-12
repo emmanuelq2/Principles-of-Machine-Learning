@@ -31,9 +31,7 @@ There is no code required for **Lab U1**
 
 ## Gallery
 
-Lab U1 full solution can be found in the Azure ML Gallery:
-
-[Cluster Analysis](http://gallery.azureml.net/Details/96a27128190d4dd38d861c59fb3f2abc)
+Lab U1 full solution can be found in the Azure ML Gallery: [Cluster Analysis](http://gallery.azureml.net/Details/96a27128190d4dd38d861c59fb3f2abc)
 
 
 ## Videos  
