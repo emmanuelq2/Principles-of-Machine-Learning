@@ -10,6 +10,10 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 **Clustering Models** contains a short practical introduction to building and evaluating clustering models.
 
+**Recommender Systems** contains an overview of recommender systems and matrix factorization.
+
+**Recommender Models** contains a short practical introduction to building and evaluating clustering models.
+
 ## Labs
 
 **Lab 6 - Unsupervised Learning** : In this lab, you will use Azure Machine Learning to build unsupervised learning models.
