@@ -22,12 +22,13 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Data
 
-This lab uses two data sets:
+**Lab 1** uses two data sets:
+- An admissions map is in *admissions_mapping.csv*
+- Diabetic patient information for over 100,000 patients is in *diabetic_data.csv*
 
-An admissions map is in *admissions_mapping.csv*
+**Lab C1** uses the data in the *German Credit UCI.csv*, available as a sample dataset in Azure ML and can be found in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)
 
-Diabetic patient information for over 100,000 patients is in *diabetic_data.csv*
-
+**Lab C2** uses the data in the *Customer Training Set.tsv* file.
 
 ## Code
 
