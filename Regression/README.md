@@ -4,14 +4,6 @@ README for Regression
 
 This folder contains introductory video lectures and slides to familiarize students with the basic concepts of regression 
 
-## Slides  
-
-**SLIDE 1**  [NEED SLIDES]
-
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
-
 ## Labs
 
 **Lab 2 - Regression Models** 
@@ -21,14 +13,19 @@ machine learning technique in which a set of data with known labels is used to t
 Whereas classification predicts whether or not a label falls into one class or another, regression predicts
 a real numeric value for the label
 
+**Lab R1 - Regression - Forecasting** is a complete case study, suitable for business users. Student create and test a forecasting model for milk production.
+
 ## Data
 
-This lab uses one data set:
+**Lab 2** uses one data set:
 
-Bike rental data is in *Bike Rental UCI dataset.csv* which is also available as a sample dataset in the Azure ML studio.
+- Bike rental data is in *Bike Rental UCI dataset.csv* which is also available as a sample dataset in the Azure ML studio.
 
-Diabetic patient information for over 100,000 patients is in *diabetic_data.csv*
+- Diabetic patient information for over 100,000 patients is in *diabetic_data.csv*
 
+**Lab R1** uses the data in two files which were constructed from original United States Department of Agriculture data:
+- *CADairyProduction-95-12.csv*
+- *CADairyProduction-13.csv*
 
 ## Code
 
@@ -43,12 +40,12 @@ The code for Lab 2 are in the following files:
 - SetDays.R
 - SetDays.py
 
+**Lab R1** requires **no code**
+
 ## Gallery
 
-**Lab 2** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
+Lab R1 full solution can be found in the Azure ML Gallery:
+[CA Dairy Forecast] (http://gallery.azureml.net/Details/e52979c7034c4f3cadd6d2e09e0d6778)
 
 ## Videos  
 
