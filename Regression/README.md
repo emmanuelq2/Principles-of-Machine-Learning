@@ -4,6 +4,12 @@ README for Regression
 
 This folder contains introductory video lectures and slides to familiarize students with the basic concepts of regression 
 
+## Slides  
+
+**Regression** contains an overview of regression theory.    
+
+**Buliding Regression Models** contains a short practical introduction to building and evaluating regression models. 
+
 ## Labs
 
 **Lab 2 - Regression Models** 
