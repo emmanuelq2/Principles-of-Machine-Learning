@@ -32,6 +32,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 **Lab C2** uses the data in the *Customer Training Set.tsv* file.
 
 ## Code
+There is no code required for **Lab C1** or **Lab C2**.
 
 The code for Lab 1 are in the following files:
 
