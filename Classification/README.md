@@ -28,13 +28,12 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 **Lab C1** uses the data in the *German Credit UCI.csv*, available as a sample dataset in Azure ML and can be found in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data))
 
-
 **Lab C2** uses the data in the *Customer Training Set.tsv* file.
 
 ## Code
 There is no code required for **Lab C1** or **Lab C2**.
 
-The code for Lab 1 are in the following files:
+The code for **Lab 1** are in the following files:
 
 - CleanAdmissions.R
 - CleanAdmissions.py
