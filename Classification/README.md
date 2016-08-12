@@ -46,10 +46,14 @@ The code for Lab 1 are in the following files:
 
 ## Gallery
 
-**Lab 1** full solution can be found in the Azure ML Gallery
+**Lab C1** full solution can be found in the Azure ML Gallery:
+Credit Scoring
 
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
+**Lab C2** full solutions to the exercises can be found in the Azure ML Gallery:
+
+-Targeted Marketing
+-Targeted Marketing 2
+
 
 ## Videos  
 
